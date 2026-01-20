@@ -1,5 +1,7 @@
-package Lecture5;
+package Lecture8;
 
+// T.C.:- O(N^2)
+// S.C.:- O(1)
 public class InsertionSort {
     public static void main(String[] args) {
         int[] arr = {2,8,6,1,5,3,3};
