@@ -1,4 +1,4 @@
-package Lecture9;
+package Lecture10;
 
 public class StringBasic {
     public static void main(String[] args) {
